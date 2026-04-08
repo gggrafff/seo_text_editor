@@ -1,5 +1,7 @@
 # SEO Keyword Analyzer
 
+**Live:** https://gggrafff.github.io/seo_text_editor/
+
 A real-time SEO content optimization tool for analyzing and optimizing written content for keyword performance. Provides keyword occurrence tracking, content quality assessment, and word frequency analysis — all running client-side in the browser.
 
 ## Features
